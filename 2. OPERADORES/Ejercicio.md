@@ -13,19 +13,31 @@ X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
 
 X = (5 + 2 * 4) – (25 +. 5) * 2
 
-      TU RESPUESTA AQUI
+      X = (5+8) - (25.5)*2
+      X = (13) - (51)
+      X = -38
 
 X = (100/5^2 + 1) + 11 * 3
 
-      TU RESPUESTA AQUI
+      X = (100/50+1) + 11 * 3
+      X = (100/50+1) + 11 * 3
+      X = (2+1) + 33
+      X = (3) + 33
+      X = 36
 
 X = ((8-6)^2*3)^3.
 
-      TU RESPUESTA AQUI
+      X = ((2)^2*3)^3.
+      X = (4*2*3)^3.
+      X = (576)*3.
+      X = 1728
+      
 
 x = ((8+5) *4) * (10-6)/4) 
 
-      TU RESPUESTA AQUI
+     X = ((13)* 4) * (4)/4)
+     X = (52) * (1)
+     X = 52
 
 ## OPERADORES RELACIONALES
 Reto. Una empresa de logística ofrece a sus trabajadores un bono de
@@ -35,7 +47,10 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
 
-      TU RESPUESTA AQUI
+      30 DIAS PUNTUAL = BONO DE PUNTULIDAD
+      2 RETARDOS = 1 DIA DE SUSPENSION
+      3 O MAS RETARBDOS = BAJA A FIN DE MES
+      
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
@@ -43,16 +58,20 @@ resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
 
-      TU RESPUESTA AQUI
+      G
 
 3^2 – (10/(8-4))+9 > 100 
 
-      TU RESPUESTA AQUI
+      3^2 – (10/(4))+9 > 100
+      3^2 – (2.5)+9 > 100
+      18 – (2.5)+9 > 100
+      18 – 11.5 > 100
+      6.5 > 100
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha (FALSO O VERDADERO).
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+1) (45<120 OR 12<120) = VERDADERO
+2) (6! =6) && (12>22)) = FALSO
+3) ¬ (128<145 && 12>9) = VERDADERO
+4) “Daniela”< >”DANIELA” = FALSO
+5) 10*20< >210 =VERDADERO
