@@ -27,7 +27,23 @@ tienes?
 
 Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro calificaciones, una por periodo, de cada materia.
 
-      TU ALGORITMO AQUI
+      1. Inicio
+      2. Declarar.
+         nom_est (str), cal1 (float), cal1 (float), cal3(float), cal4(float), prom(float)
+      3. Mostar. "Ingresa el nombre del alumno"
+      4. Asignar. nom_alumno
+      5. Mostar. "Ingrese la primera calificacion"
+      6. Asignar. cal1
+      7. Mostrar. "Ingrese la segunda calificacion"
+      8. Asignar. cal2  
+      9. Mostrar. "Ingrese la tercera calificacion"
+      10. Asignar. cal3
+      11. Mostrar. "Ingrese la cuarta calificacion"
+      12. Asignar. cal4
+      13. prom = (cal1 + cal2 + cal3 + cal4) / 4
+      14. Mostrar "El alumno", nom_alumno, "obtuvo un promedio", prom
+      15. Fin
+      
       
       
 ## EJERCICIO 3
