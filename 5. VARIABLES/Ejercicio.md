@@ -61,6 +61,15 @@ Realiza un algoritmo para un programa que solicite al usuario su nombre y le sal
 
 Realiza un algoritmo para  un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta y la cantidad de litros de combustible que consumió durante ese recorrido. El consumo por kilómetro es de 20.8
 
-      TU ALGORITMO AQUI  
+      1. Inicio.
+      2. Declarar. kilo_recorr(float), cons_kilo = 20.8, recorr_total,
+      3. Mostar. "Ingrese los kilometros recorridos"
+      4. Asignar. kilo_recorr
+      5. recorr_total = kilo_recorr * cons_kilo
+      6. Mostrar. "Su recorrido total es", recorr_total
+      7. Fin.
+      
+      
+      
 
 Ahora llevalos a PSINT
