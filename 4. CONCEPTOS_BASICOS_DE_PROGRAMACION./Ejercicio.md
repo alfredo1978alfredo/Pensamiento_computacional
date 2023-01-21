@@ -5,5 +5,4 @@ Investiga sobre algún lenguaje de programación e ingresa sus características.
       2. Es un lenguaje orientado a objetos.
       3. Es seguro.
       4. Es portable.
-      5. Es interpretado.
-            
+      
