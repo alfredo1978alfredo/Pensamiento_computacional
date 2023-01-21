@@ -19,7 +19,20 @@
 
 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
       
-        AQUI TU ALGORITMO Y DIAGRMA DE FLUJO
+        ALGORITMO
+        1. Inicio
+        2. Declarar metros (float)
+           Declarar yarda = 0.9144 (foat)
+           resultado (float)
+        3. Mostrar "Ingresa los metros"
+        4. Asignar metros
+        5. resultado = matros * yarda
+        6. Mostrar "El resultado es", resultado
+        7. Fin
+        
+     ![image](https://user-images.githubusercontent.com/119713481/213883672-f16d2432-99dc-44e8-9b7f-e05a6a7514f8.png)
+
+                
 
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
