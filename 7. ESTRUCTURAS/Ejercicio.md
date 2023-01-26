@@ -15,4 +15,5 @@ GORITMO Y DIAGRAMA AQUI
 
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es negativo o positivo.
 
-        TU ALGORITMO Y DIAGRAMA AQUI
+    ![image](https://user-images.githubusercontent.com/119713481/214730696-b9ed6d23-2d90-4e01-a663-07e031d52bf9.png)
+    ![image](https://user-images.githubusercontent.com/119713481/214730845-d9017682-d42d-4470-be5c-e3cb6db1c524.png)
